@@ -195,6 +195,7 @@ a:visited {
     width: 160px;
     box-shadow: 0px 2px 2px gray;
     z-index: 1;
+    padding:0px;
 
 }
 
@@ -391,7 +392,8 @@ a:visited {
 }
 .clearfix{
 float:none;
-clear: both;}
+clear: both;
+}
 
 .history{
     float: right;
@@ -411,5 +413,6 @@ color:white;
 font-family: sans-serif;
 font-size: 14px;
 box-shadow: 0px 0px 2px grey;
+
 
 }
